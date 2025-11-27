@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm  Ravi Pathak an AI/ML Enthusiast</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm  Ravi Pathak an AI/ML Enthusiast</h1>
 <h3 align="center">Passionate about building intelligent systems, modern web apps, and exploring the future of technology.</h3>
 
 ---
 
+
 ## 🚀 About Me  
 - 🔭 I’m currently learning **AI/ML, Deep Learning & Backend Engineering**  
-- 💡 I love creating **full-stack applications**, exploring **LLMs**, and building scalable APIs  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; I love creating **full-stack applications**, exploring **LLMs**, and building scalable APIs  
 - 🌱 Constantly improving my skills in **Python, FastAPI, and Machine Learning**  
 - 🎯 Goal: Become an **AI Engineer** capable of building production-ready smart systems  
 - ⚡ Fun fact: I debug 90% of problems by talking to my code 😄  
@@ -35,12 +36,6 @@ Here are some ideas to get you started:
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,fastapi,php,laravel,cpp,c" />
 </p>
-
----
-
-## 📂 Featured Projects  
-### 🔹 **Blog + Research Paper Website**  
-_A full-stack platform built with **FastAPI + Next.js** where users can publish blogs and upload research papers._
 
 
 ---
@@ -73,5 +68,5 @@ _A full-stack platform built with **FastAPI + Next.js** where users can publish 
 </p>
 
 
-## ⭐ If you like my work, consider giving my repos a star!  
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
 
