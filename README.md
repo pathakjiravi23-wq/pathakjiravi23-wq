@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **pathakjiravi23-wq/pathakjiravi23-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm  Ravi Pathak an AI/ML Enthusiast</h1>
+<h3 align="center">Passionate about building intelligent systems, modern web apps, and exploring the future of technology.</h3>
+
+---
+
+## 🚀 About Me  
+- 🔭 I’m currently learning **AI/ML, Deep Learning & Backend Engineering**  
+- 💡 I love creating **full-stack applications**, exploring **LLMs**, and building scalable APIs  
+- 🌱 Constantly improving my skills in **Python, FastAPI, and Machine Learning**  
+- 🎯 Goal: Become an **AI Engineer** capable of building production-ready smart systems  
+- ⚡ Fun fact: I debug 90% of problems by talking to my code 😄  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+### 🧠 **Core Skills**
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,fastapi,php,laravel,cpp,c" />
+</p>
+
+---
+
+## 📂 Featured Projects  
+### 🔹 **Blog + Research Paper Website**  
+_A full-stack platform built with **FastAPI + Next.js** where users can publish blogs and upload research papers._
+
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pathakjiravi23-wq&show_icons=true&theme=radical" height="170"/>
+
+  <!-- Streak -->
+  <!--<img src="https://streak-stats.demolab.com?user=pathakjiravi23-wq&theme=radical" height="170"/>-->
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakjiravi23-wq&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="mailto:pathakjiravi23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48px"/></a>
+  <a href="https://www.linkedin.com/in/dummy-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
+
+
+## ⭐ If you like my work, consider giving my repos a star!  
+
