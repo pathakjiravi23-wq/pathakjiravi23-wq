@@ -40,22 +40,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pathakjiravi23-wq&show_icons=true&theme=radical" height="170"/>
-
-  <!-- Streak -->
-  <!--<img src="https://streak-stats.demolab.com?user=pathakjiravi23-wq&theme=radical" height="170"/>-->
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakjiravi23-wq&layout=compact&theme=radical" height="170"/>
-</p>
-
----
 
 ## 🔗 Connect With Me  
 <p align="left">
