@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 🧠 **Core Skills**
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,fastapi,flask,php,laravel,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,java,fastapi,flask,numpy,pandas,google collab,scikt learn" />
 </p>
 
 
